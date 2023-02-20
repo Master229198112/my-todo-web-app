@@ -1,5 +1,3 @@
-Mouse
 Master Python
 Anything
 Hello
-
